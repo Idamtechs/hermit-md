@@ -10,17 +10,17 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "07_28_H_E_R_M_I_T_6D53DFU"
     },
     "SUDO": {
       "description": "owner number of the bot",
       "required": true,
-      "value": "null"
+      "value": "2348168772328"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
     "ALWAYS_ONLINE": {
       "description": "show bot number last seen as online",
@@ -48,7 +48,7 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "ʜᴇʀᴍɪᴛ;TOLUWALASE;2348168772328;https://i.pinimg.com/originals/d9/41/8b/d9418bc48ce0520e7cc96de465fe8fff.jpg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
